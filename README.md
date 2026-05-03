@@ -188,7 +188,7 @@ Everything else — Pydantic model, structured output, Streamlit UI — stays id
 ## Author
 
 Built by **Shreyasi** · DevOps + AI Engineer  
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/shreyasi-ghosh-offical/) · [GitHub](https://github.com/ShreyasiGhoshOfficial)
 
 ---
 
