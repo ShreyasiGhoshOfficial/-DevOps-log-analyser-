@@ -31,7 +31,7 @@ class LogAnalysis(BaseModel):
 @st.cache_resource
 def get_llm():
     return ChatGroq(
-        model="llama-3.1-70b-versatile",
+        model="llama-3.3-70b-versatile",
         api_key=st.secrets["GROQ_API_KEY"],
         temperature=0
     ).with_structured_output(LogAnalysis)
